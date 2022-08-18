@@ -117,6 +117,7 @@
 @media screen and (max-width: 1050px) {
     .gpt3__header {
         flex-direction: column;
+        width: 100%;
     }
 
     .gpt3__header-content {
