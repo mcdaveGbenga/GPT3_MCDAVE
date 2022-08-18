@@ -1,6 +1,4 @@
 {
- "homepage": "http://mcdaveGbenga.github.io/GPT3_MCDAVE",
-  "name": "gpt3_mcdave",
  
   "version": "0.1.0",
  
@@ -37,10 +35,7 @@
   "scripts": {
  
    
-  "predeploy": "npm run build",
- 
-   
-  "deploy": "gh-pages -d build",
+  
  
    
   "start": "react-scripts start",
